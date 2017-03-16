@@ -9,13 +9,13 @@ For more information on how to setup homestead official documentation [is locate
 
 # Copy Sites From Original Homestead
 
-```git clone https://github.com/gjrdiesel/homestead.git ~/Homestead56```
+```git clone https://github.com/dev-kang/homestead56.git ~/Homestead56```
 
 ```cd ~/Homestead56; cp -rv ~/.homestead/ ~/.homestead-56/; vagrant up```
 
 ## Or Setup Brand New Homestead56
 
- ```git clone https://github.com/gjrdiesel/homestead.git ~/Homestead56```
+ ```git clone https://github.com/dev-kang/homestead56.git ~/Homestead56```
 
 ```cd ~/Homestead56; bash init.sh; vagrant up```
 
